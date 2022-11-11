@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/Scan"
+        android:icon="@drawable/ic_scan"
+        android:title="@string/ProcessScan" />
+    <item
+        android:id="@+id/Code"
+        android:icon="@drawable/ic_code"
+        android:title="@string/ProcessCode" />
+    <item
+        android:id="@+id/Info"
+        android:icon="@drawable/ic_info"
+        android:title="@string/Login" />
+</menu>
