@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">RTCVision</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="image_fragment">Hello fragment</string>
+    <string name="gallery_fragment">Hello fragment</string>
+    <string name="video_fragment">Hello fragment</string>
+
+    <string name="ProcessScan">Scan</string>
+    <string name="ProcessCode">Code</string>
+    <string name="Login">Log</string>
+
+</resources>
